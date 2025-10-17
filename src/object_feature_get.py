@@ -81,7 +81,7 @@ class GetFeatureObjBot:
         print("response:", response.choices[0].message.content)
         return response.choices[0].message.content
 
-    def append_result(self, new_result, filename="./results.json"):
+    def append_result(self, new_result, filename="../io/results.json"):
         """
         JSONファイルに結果を追記して保存する関数。
         既存ファイルがなければ新規作成する。
