@@ -1,0 +1,124 @@
+[
+  {
+    "sceneID": "scene1",
+    "label": "trash_can1",
+    "color": "blue",
+    "shape": "round",
+    "material": "plastic",
+    "position": "[100, 300, 200, 400]"
+  },
+  {
+    "sceneID": "scene1",
+    "label": "trash_can2",
+    "color": "blue",
+    "shape": "rectangular",
+    "material": "metal",
+    "position": "[300, 310, 400, 410]"
+  },
+  {
+    "sceneID": "scene1",
+    "label": "trash_can3",
+    "color": "red",
+    "shape": "round",
+    "material": "plastic",
+    "position": "[500, 320, 600, 420]"
+  },
+  {
+    "sceneID": "scene1",
+    "label": "trash_can4",
+    "color": "red",
+    "shape": "square",
+    "material": "metal",
+    "position": "[700, 330, 800, 430]"
+  },
+  {
+    "sceneID": "scene1",
+    "label": "trash_can5",
+    "color": "blue",
+    "shape": "square",
+    "material": "wood",
+    "position": "[900, 340, 1000, 440]"
+  },
+
+  {
+    "sceneID": "scene2",
+    "label": "trash_can1",
+    "color": "white",
+    "shape": "rectangular",
+    "material": "plastic",
+    "position": "[120, 280, 220, 380]"
+  },
+  {
+    "sceneID": "scene2",
+    "label": "trash_can2",
+    "color": "white",
+    "shape": "round",
+    "material": "metal",
+    "position": "[320, 290, 420, 390]"
+  },
+  {
+    "sceneID": "scene2",
+    "label": "trash_can3",
+    "color": "gray",
+    "shape": "square",
+    "material": "plastic",
+    "position": "[520, 300, 620, 400]"
+  },
+  {
+    "sceneID": "scene2",
+    "label": "trash_can4",
+    "color": "white",
+    "shape": "rectangular",
+    "material": "wood",
+    "position": "[720, 310, 820, 410]"
+  },
+  {
+    "sceneID": "scene2",
+    "label": "trash_can5",
+    "color": "gray",
+    "shape": "round",
+    "material": "metal",
+    "position": "[920, 320, 1020, 420]"
+  },
+
+  {
+    "sceneID": "scene3",
+    "label": "trash_can1",
+    "color": "green",
+    "shape": "round",
+    "material": "metal",
+    "position": "[150, 320, 250, 420]"
+  },
+  {
+    "sceneID": "scene3",
+    "label": "trash_can2",
+    "color": "green",
+    "shape": "rectangular",
+    "material": "wood",
+    "position": "[350, 330, 450, 430]"
+  },
+  {
+    "sceneID": "scene3",
+    "label": "trash_can3",
+    "color": "blue",
+    "shape": "round",
+    "material": "plastic",
+    "position": "[550, 340, 650, 440]"
+  },
+  {
+    "sceneID": "scene3",
+    "label": "trash_can4",
+    "color": "blue",
+    "shape": "rectangular",
+    "material": "metal",
+    "position": "[750, 350, 850, 450]"
+  },
+  {
+    "sceneID": "scene3",
+    "label": "trash_can5",
+    "color": "green",
+    "shape": "square",
+    "material": "plastic",
+    "position": "[950, 360, 1050, 460]"
+  }
+]

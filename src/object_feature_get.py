@@ -52,6 +52,7 @@ class GetFeatureObjBot:
             {"role": "system", "content": f"In this time, sceneID is {scene_id}"},
             {"role": "system", "content": "If the text is not specified on the object, abusolutely output Unknown."},
             {"role": "system", "content": "If there are same objects, You must change labels of objects acording to the number at objects labels"},
+            {"role": "system", "content": "Output the result in json format like [{'sceneID': 'test_scene1', 'label': 'trash_can1', 'text': 'Recycle', 'color': 'green', 'shape': 'cylindrical', 'position': 'left side', 'material': 'plastic'}, {'sceneID': 'test_scene1', 'label': 'trash_can2', 'text': 'Trash', 'color': 'black', 'shape': 'cylindrical', 'position': 'right side', 'material': 'metal'}]"},
 
         ]
 

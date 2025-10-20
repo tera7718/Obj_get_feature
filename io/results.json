@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "sceneID": "test_trash_can1",
+            "label": "trash_can1",
+            "text": "Other Waste",
+            "color": "blue",
+            "shape": "rectangular",
+            "position": "left side",
+            "material": "plastic",
+            "bbox": [
+                807.9735717773438,
+                1745.2152099609375,
+                1999.2581787109375,
+                3779.060302734375
+            ]
+        },
+        {
+            "sceneID": "test_trash_can1",
+            "label": "trash_can2",
+            "text": "Can & Glass Bottles",
+            "color": "red",
+            "shape": "rectangular",
+            "position": "center",
+            "material": "plastic"
+        },
+        {
+            "sceneID": "test_trash_can1",
+            "label": "trash_can3",
+            "text": "PET Bottles",
+            "color": "brown",
+            "shape": "rectangular",
+            "position": "right side",
+            "material": "plastic"
+        }
+    ]
+]
